@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/Wicoka/Advent-of-Code-2022/issues"
   },
-  "homepage": "https://github.com/Wicoka/Advent-of-Code-2022#readme"
+  "homepage": "https://github.com/Wicoka/Advent-of-Code-2022#readme",
+  "type": "module"
 }
