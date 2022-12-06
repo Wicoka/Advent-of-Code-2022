@@ -1,5 +1,12 @@
-import { calculateHowNeedsToEnd } from './utils/day-2.js';
+import { getSumOfGroupPriority } from './utils/day-3.js';
 
+// DAY 1
 // calculateTopTgreeCalories();
+
+// DAY 2
 // calculateWins();
-calculateHowNeedsToEnd();
+// calculateHowNeedsToEnd();
+
+// DAY 3
+// getSumOfPriority();
+getSumOfGroupPriority();
