@@ -1,4 +1,4 @@
-import { getSumOfGroupPriority } from './utils/day-3.js';
+import { calculatePartlyRange } from './utils/day-4.js';
 
 // DAY 1
 // calculateTopTgreeCalories();
@@ -9,4 +9,8 @@ import { getSumOfGroupPriority } from './utils/day-3.js';
 
 // DAY 3
 // getSumOfPriority();
-getSumOfGroupPriority();
+// getSumOfGroupPriority();
+
+// DAY 4
+// calculateFullyRange();
+calculatePartlyRange();
