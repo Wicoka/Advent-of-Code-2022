@@ -1,3 +1,4 @@
-import { calculateTopTgreeCalories } from './utils/day-1.js';
+import { calculateWins } from './utils/day-2.js';
 
-calculateTopTgreeCalories();
+// calculateTopTgreeCalories();
+calculateWins();
