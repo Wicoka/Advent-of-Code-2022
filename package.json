@@ -22,5 +22,8 @@
     "url": "https://github.com/Wicoka/Advent-of-Code-2022/issues"
   },
   "homepage": "https://github.com/Wicoka/Advent-of-Code-2022#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
