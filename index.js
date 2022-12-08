@@ -1,4 +1,4 @@
-import { calculatePartlyRange } from './utils/day-4.js';
+import { calculateSortedStacks2 } from './utils/day-5.js';
 
 // DAY 1
 // calculateTopTgreeCalories();
@@ -13,4 +13,8 @@ import { calculatePartlyRange } from './utils/day-4.js';
 
 // DAY 4
 // calculateFullyRange();
-calculatePartlyRange();
+// calculatePartlyRange();
+
+// DAY 5
+// calculateSortedStacks();
+calculateSortedStacks2();
