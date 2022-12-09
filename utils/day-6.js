@@ -1,3 +1,4 @@
+import { findDuplicates } from './find-duplicates.js';
 import { readFromFile } from './read-from-file.js';
 
 // PART 1
@@ -39,6 +40,3 @@ export const calculateDay6 = async () => {
   // PART 2
   console.log('RESULT: ', result[0] + 14);
 };
-
-export let findDuplicates = (arr) =>
-  arr.filter((item, index) => arr.indexOf(item) != index);
