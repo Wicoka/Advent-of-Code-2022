@@ -1,4 +1,4 @@
-import { calculateDay8Part2 } from './utils/day-8.js';
+import { calculateDay9 } from './utils/day-9.js';
 
 // DAY 1
 // calculateTopTgreeCalories();
@@ -24,4 +24,7 @@ import { calculateDay8Part2 } from './utils/day-8.js';
 
 // DAY 8
 // calculateDay8();
-calculateDay8Part2();
+// calculateDay8Part2();
+
+// DAY 9
+calculateDay9();
